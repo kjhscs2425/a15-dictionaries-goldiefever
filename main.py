@@ -1,5 +1,4 @@
 import string
-
 text = """
 Everyone counts.
 Everyone has access to great learning.
